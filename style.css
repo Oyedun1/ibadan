@@ -1,0 +1,136 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.menu{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #f5f5f5;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    gap:100px;
+    text-decoration: none;
+font-family:'Jost', sans-serif;
+padding-left: 50px;
+font-size: large;
+font-weight: 400;
+    
+}
+.menu a{
+    padding-left: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu a button{
+    background-color:#fdb915;
+    outline: none;
+}
+.btn{
+    
+    width: 100px;
+    height: 50px;
+    border:#fdb915;
+    text-align: justify;
+    color:#224093;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border-radius: 10px;
+    
+}
+.ibd-7e92bb92{
+    padding-left: 10px;
+}
+
+.maiden{
+    padding-left:10px;
+    padding-right:10px;
+    display:flex;
+    color:#224093;
+    font-family: 'Jost', sans-serif;
+}
+
+.ticket a{
+    text-decoration: none
+}
+.ticket a button{
+
+    color:#224093;
+    width: 150px;
+}
+.buyticket{
+    display:flex;
+    text-align: justi;
+    padding: 10px;
+    background-color: #fdb915;
+    width: 100px;
+    font-family:'Jost', sans-serif;
+    color:#224093;
+
+}
+
+.buyticket a{
+    color:#224093;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding: ;
+}
+
+.sponsor{
+    padding-left: 500px;
+    border-color: gray;
+    width: 100px;
+}
+.sponsor a button{
+    font-family: 'Jost', sans-serif;
+    font-size: 40px;
+    width: 500px;
+    text-align: justify;
+}
+
+.Venue{
+    padding-top: 50px;
+    height: 400px;
+    width: 100%;
+    background-color: #5576cf;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.venue h1{
+   
+    color: white;
+    padding-top: 50px;
+text-align: center;
+font-family: 'Jost', sans-serif;;
+font-size: 50px;
+font-weight: 700px;
+line-height: 50px;
+}
+.venue p{
+    color: white;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+line-height: 32px;
+}
+.tit1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tit1p{
+    font-family: 'Jost', sans-serif;;;
+}
